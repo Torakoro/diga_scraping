@@ -8,6 +8,8 @@ https://play.google.com/store/apps/details?id=de.rehappy.app.rehappy
 https://play.google.com/store/apps/details?id=de.mementor.somnio
 https://play.google.com/store/apps/details?id=de.aidhere.zanadio
 https://play.google.com/store/apps/details?id=com.vivira.android
+https://play.google.com/store/apps/details?id=com.emperra.esysta
+https://play.google.com/store/apps/details?id=de.nichtraucherhelden.app
 https://apps.apple.com/de/app/cankado/id1343701240
 https://apps.apple.com/de/app/invirto/id1482760714
 https://apps.apple.com/de/app/id1511739470
@@ -18,3 +20,5 @@ https://apps.apple.com/de/app/rehappy/id1357107437
 https://apps.apple.com/de/app/vivira-r%C3%BCcken-knie-und-h%C3%BCfte/id1093858117
 https://apps.apple.com/de/app/somnio/id1523016446
 https://apps.apple.com/de/app/zanadio/id1499824614
+https://apps.apple.com/de/app/esysta/id521073696
+https://apps.apple.com/de/app/nichtraucherhelden-de/id1462400864
